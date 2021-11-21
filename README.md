@@ -21,19 +21,19 @@ This is a pure CNN model. It is composed mainly of 3 layers - the convolution la
 
 ## Models Performance
 ### LightGBM
-| Private LeaderBoard      | Public Leaderboard |
+| Private LeaderBoard      | Public LeaderBoard |
 | ----------- | ----------- |
 | Score: 12.87223      | Score: 14.15129       |
 | Rank: Top 29.4%  | Rank: Top 40.7%        |
 
 ### CNN-LSTM
-| Private LeaderBoard      | Public Leaderboard |
+| Private LeaderBoard      | Public LeaderBoard |
 | ----------- | ----------- |
 | Score: 12.92530     | Score: 14.03768      |
 | Rank: Top 34.2%  | Rank: Top 32.46%       |
 
 ### CNN
-| Private LeaderBoard      | Public Leaderboard |
+| Private LeaderBoard      | Public LeaderBoard |
 | ----------- | ----------- |
 | Score: 36.59492     | Score: 14.92425      |
 | Rank: Top 93%  | Rank: Top 61.4%      |
