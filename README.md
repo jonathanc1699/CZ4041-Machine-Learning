@@ -21,31 +21,22 @@ This is a pure CNN model. It is composed mainly of 3 layers - the convolution la
 
 ## Models Performance
 ### LightGBM
-#### Private Leaderboard
-* Score: 12.87223
-* Rank:  Top 29.4%
-
-#### Public Leaderboard
-* Score: 14.15129
-* Rank: Top 40.7%
+| Private LeaderBoard      | Public Leaderboard |
+| ----------- | ----------- |
+| Score: 12.87223      | Score: 14.15129       |
+| Rank: Top 29.4%  | Rank: Top 40.7%        |
 
 ### CNN-LSTM
-#### Private Leaderboard
-* Score: 12.92530
-* Rank: Top 34.2%
-
-#### Public Leaderboard
-* Score: 14.03768
-* Public rank: Top 32.46%
+| Private LeaderBoard      | Public Leaderboard |
+| ----------- | ----------- |
+| Score: 12.92530     | Score: 14.03768      |
+| Rank: Top 34.2%  | Rank: Top 32.46%       |
 
 ### CNN
-#### Private Leaderboard
-* Score: 36.59492
-* Rank: Top 93%
-
-#### Public Leaderboard
-* Score: 14.92425
-* Rank: Top 61.4%
+| Private LeaderBoard      | Public Leaderboard |
+| ----------- | ----------- |
+| Score: 36.59492     | Score: 14.92425      |
+| Rank: Top 93%  | Rank: Top 61.4%      |
 
 ## Team Members
 * Jonathan Chang Ji Ming	
