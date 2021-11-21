@@ -17,7 +17,7 @@ This is an efficient boosting model developed by Microsoft. It consists of an en
 This is a deep learning model that combines the strengths of both a Convolutional Neural Network (CNN) and Long short-term memory (LSTM). It uses the CNN for feature extraction followed by the LSTM for the training on the dataset. The code for this mode can be found in the CNN_LSTM.ipynb notebook.
 
 ### 3. CNN model
-This is a pure CNN model. It is composed mainly of 2 convolution layers, with ReLU and pooling layers after them, a and fully connected layer. The code for it can be found in the PureCNN.ipynb notebook.
+This is a pure CNN model. It is composed mainly of 2 convolution layers, with ReLU and pooling layers after them, and a fully connected layer. The code for it can be found in the PureCNN.ipynb notebook.
 
 ## Models Performance
 ### LightGBM
