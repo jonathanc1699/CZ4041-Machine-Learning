@@ -37,7 +37,7 @@ This is a pure CNN model. It is composed mainly of 3 layers - the convolution la
 | ----------- | ----------- |
 | Score: 36.59492     | Score: 14.92425      |
 | Rank: Top 93%  | Rank: Top 61.4%      |
-
+<br></br>
 *Note: The submissions for the LightGBM, CNN-LSTM, and CNN models can be found in the submission_LightGBM.csv, submission_CNN_LSTM.csv, and submission_CNN.csv files respectively.*
 
 ## Team Members
